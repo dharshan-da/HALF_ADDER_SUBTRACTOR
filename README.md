@@ -73,7 +73,7 @@ assign Bout=~C&D;
 endmodule
 ```
 
-Developed by: DHARSHANSHRI G/25017586.
+Developed by: DHARSHANSHRI DA/25017586.
 
 **RTL Schematic**
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d3749d59-7c2f-496d-8026-05aab53a900f" />
